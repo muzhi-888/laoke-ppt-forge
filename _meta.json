@@ -1,0 +1,19 @@
+{
+  "name": "laoke-ppt-forge",
+  "slug": "laoke-ppt-forge",
+  "displayName": "演示文稿一键生成器",
+  "version": "1.0.0",
+  "author": "局内人·老K",
+  "category": "办公效率",
+  "license": "MIT",
+  "description": "把主题、大纲或零散要点，整理成结构专业、视觉干净、可直接演示或转PDF的幻灯片，含内容策划、版式规范与一键生成脚本",
+  "tags": ["PPT", "演示文稿", "幻灯片", "汇报", "路演", "效率"],
+  "compatibility": ["WorkBuddy", "SkillHub", "Claude Code", "Cursor", "Codex"],
+  "permissions": ["read", "write"],
+  "safety": "只读用户提供的主题与要点，不联网不上传任何内容",
+  "entry": "SKILL.md",
+  "references": 5,
+  "scripts": 1,
+  "hasGuardrail": true,
+  "updatedAt": "2026-09-04"
+}
